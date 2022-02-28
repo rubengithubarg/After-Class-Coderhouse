@@ -393,7 +393,6 @@ const readFileAsync = async(archivo) => {
   }
 }
 ```
-Para más detalle ver la demo `demoErrorHandler.js`
 
 ### Desventajas
 
